@@ -194,10 +194,3 @@ if __name__ == "__main__":
 
 
     menu()
-
-'''cliente1 = Cliente("RICARDO ANTONIO CARDOSO", "02321445912", "16991220875", 44, "RUA PRESIDENTE JOAO BELCHIOR, 64")
-cliente1.__str__()
-cliente1.alterar_telefone("16999992233")
-cliente1.__str__()
-cliente1.alterar_cpf("0245569121211")
-cliente1.__str__()'''
